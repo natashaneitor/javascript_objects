@@ -4,7 +4,7 @@ var hero = {
     hair: 'Antenas',
     
     iam: function(){
-        return "soy el " + this.name + " mi arma es un " + this.weapon + " y uso mis antenas " + this.hair
+        return "soy el " + this.name + " mi arma es un " + this.weapon + " y uso mis " + this.hair
     }
 }
 
